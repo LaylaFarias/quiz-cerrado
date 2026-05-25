@@ -1,9 +1,9 @@
 const PHOTOS = [
-  'https://images.unsplash.com/photo-1597305877032-0668b3c8fc8e?w=900&q=80&fm=jpg&fit=crop',
-  'https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?w=900&q=80&fm=jpg&fit=crop',
-  'https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=900&q=80&fm=jpg&fit=crop',
-  'https://images.unsplash.com/photo-1475113548986-5a7b9f55f951?w=900&q=80&fm=jpg&fit=crop',
-  'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=900&q=80&fm=jpg&fit=crop',
+  'https://ispn.org.br/wp-content/uploads/2022/03/CERRADO.jpg',
+  'https://www.produzindocerto.com.br/wp-content/uploads/2024/09/dia-nacional-do-cerrado-produzindocerto-1280x720-1.jpg',
+  'https://static.wixstatic.com/media/480088_801764772d7049309155b44b11a99889~mv2.jpg/v1/fill/w_326,h_215,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buriti_AcervoISPN_Bento%20Viana.jpg',
+  'https://static.wixstatic.com/media/a27d24_cb62d38c8bea46f6a142f5420bba408e~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_90,usm_0.66_1.00_0.01/a27d24_cb62d38c8bea46f6a142f5420bba408e~mv2.jpg',
+  'https://live.staticflickr.com/1860/44373091462_2058d946e0_b.jpg',
 ];
 
 const QUESTIONS = {
