@@ -1,0 +1,36 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --ink: #1c1a17;
+  --ink-mid: #3d3930;
+  --ink-soft: #7a7264;
+  --paper: #f7f3ec;
+  --paper-warm: #ede8de;
+  --rule: #d9d3c7;
+  --amber: #b87333;
+  --amber-light: #d49a5a;
+  --amber-pale: #f0e0c8;
+  --green-ok: #2d6a3f;
+  --green-ok-bg: #e8f2eb;
+  --red-err: #8b2020;
+  --red-err-bg: #f5e8e8;
+  --green-reveal: #1a5230;
+  --green-reveal-bg: #dff0e6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+/* CONTINUE COLANDO TODO O CSS DO <style> AQUI */
