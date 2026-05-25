@@ -1,7 +1,7 @@
 const PHOTOS = [
   'https://ispn.org.br/wp-content/uploads/2022/03/CERRADO.jpg',
   'https://www.produzindocerto.com.br/wp-content/uploads/2024/09/dia-nacional-do-cerrado-produzindocerto-1280x720-1.jpg',
-  'https://static.wixstatic.com/media/480088_801764772d7049309155b44b11a99889~mv2.jpg/v1/fill/w_326,h_215,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Buriti_AcervoISPN_Bento%20Viana.jpg',
+  'https://ispn.org.br/wp-content/uploads/2025/07/ispn-biomas-cerrado.jpg',
   'https://static.wixstatic.com/media/a27d24_cb62d38c8bea46f6a142f5420bba408e~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_90,usm_0.66_1.00_0.01/a27d24_cb62d38c8bea46f6a142f5420bba408e~mv2.jpg',
   'https://live.staticflickr.com/1860/44373091462_2058d946e0_b.jpg',
 ];
